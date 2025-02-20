@@ -8,6 +8,10 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+/**
+ * @author Jorge Eduardo Garcia Serrano -
+ * <a href="mailto:eduardo_garcia@ciencias.unamm.mx>eduardo_garcia@ciencias.unnam.mx</a>
+ */
 public class MainActivity extends AppCompatActivity {
 
     @Override
