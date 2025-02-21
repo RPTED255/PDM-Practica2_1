@@ -9,8 +9,10 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 /**
+ * @author Jorge Eduardo Garcia Serrano -
+ * <a href="mailto:eduardo_garcia@ciencias.unam.mx>eduardo_garcia@ciencias.unam.mx</a>
  * @author Padilla Coronel César -
- * <a href="mailto:c10.0@ciencias.unam.mx>c10.0@ciencias.unnam.mx</a>
+ * <a href="mailto:c10.0@ciencias.unam.mx>c10.0@ciencias.unam.mx</a>
  */
 public class MainActivity extends AppCompatActivity {
 
